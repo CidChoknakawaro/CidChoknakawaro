@@ -1,5 +1,7 @@
 # 🌟 Welcome to GitHub Account! 🌟
 
+![Profile Banner](bunny-github.jpg)
+
 ## 👋 About Me
 Hello, world! I'm Cid Choknakawaro, a programmer with a love for uncovering hidden patterns and transforming raw data into actionable insights. My journey in the world of data science has been an exciting adventure filled with curiosity, creativity, and continuous learning.
 
@@ -43,6 +45,10 @@ Here are some of the exciting projects I've worked on:
 
 ## 📧 Contact Me
 Feel free to drop me an email at [Cid.choky@gmail.com](mailto:Cid.choky@gmail.com) for any queries or collaborations.
+
+---
+
+![Footer](bunny-github2.jpeg)
 
 ---
 
