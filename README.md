@@ -44,7 +44,7 @@ Here are some of the exciting projects I've worked on:
 
 - **Space Hound:** A collaboration project for an RPG game built entirely in Pygame set in space. ( Work in Progress 🌟 ) 
 - **Sentiment Analysis on Movie Reviews:** A project where I used NLP techniques to analyze and predict the sentiment of movie reviews.
-- **Time Series Forecasting with SARIMA:** Forecasted future values based on historical airline passenger data using SARIMA models.
+- **Sales Forecasting with Time-Series Analysis:** Forecasted future values based on historical airline passenger data using SARIMA models.
 - **Image Classification with CNN:** Built a Convolutional Neural Network to classify images into different categories.
 
 ---
