@@ -53,13 +53,7 @@ Feel free to drop me an email at [Cid.choky@gmail.com](mailto:Cid.choky@gmail.co
 
 ---
 
-## 📊 Github Statistics
-
-![Cid Choknakawaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CidChoknakawaro&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CidChoknakawaro&layout=compact&theme=radical) 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CidChoknakawaro&theme=radical)
 
 ---
 
