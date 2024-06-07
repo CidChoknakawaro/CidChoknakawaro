@@ -1,9 +1,8 @@
-# 🌟 Welcome to GitHub Account! 🌟
+# 🌟 Welcome to my GitHub Account! 🌟
 
 ---
 
-![Profile Banner](bunny-github.jpg)
-
+![Header](./your-header-image-name.png)
 
 ## 👋 About Me
 Hello, world! I'm Cid Choknakawaro, a programmer with a love for uncovering hidden patterns and transforming raw data into actionable insights. My journey in the world of data science has been an exciting adventure filled with curiosity, creativity, and continuous learning.
@@ -61,8 +60,6 @@ Feel free to drop me an email at [Cid.choky@gmail.com](mailto:Cid.choky@gmail.co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CidChoknakawaro&layout=compact&theme=radical) 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CidChoknakawaro&theme=radical)
-
-![Footer](bunny-github2.jpeg)
 
 ---
 
