@@ -1,6 +1,9 @@
 # 🌟 Welcome to GitHub Account! 🌟
 
+---
+
 ![Profile Banner](bunny-github.jpg)
+
 
 ## 👋 About Me
 Hello, world! I'm Cid Choknakawaro, a programmer with a love for uncovering hidden patterns and transforming raw data into actionable insights. My journey in the world of data science has been an exciting adventure filled with curiosity, creativity, and continuous learning.
@@ -19,6 +22,9 @@ Here are some of the tools and technologies I love working with:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Data Analysis & Visualization:** 
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -47,6 +53,14 @@ Here are some of the exciting projects I've worked on:
 Feel free to drop me an email at [Cid.choky@gmail.com](mailto:Cid.choky@gmail.com) for any queries or collaborations.
 
 ---
+
+## 📊 Github Statistics
+
+![Cid Choknakawaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CidChoknakawaro&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CidChoknakawaro&layout=compact&theme=radical) 
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CidChoknakawaro&theme=radical)
 
 ![Footer](bunny-github2.jpeg)
 
