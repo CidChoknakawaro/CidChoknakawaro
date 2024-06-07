@@ -2,7 +2,7 @@
 
 ---
 
-![Header](./your-header-image-name.png)
+![Header](github-header-image.png)
 
 ## 👋 About Me
 Hello, world! I'm Cid Choknakawaro, a programmer with a love for uncovering hidden patterns and transforming raw data into actionable insights. My journey in the world of data science has been an exciting adventure filled with curiosity, creativity, and continuous learning.
